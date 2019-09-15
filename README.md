@@ -1,0 +1,2 @@
+# Data_Structure_and_Algorithms_for_contest
+プログラミングコンテスト攻略のためのアルゴリズムとデータ構造 用
