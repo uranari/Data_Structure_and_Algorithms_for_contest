@@ -4,8 +4,6 @@ int searchmax(int *list, int listNumber)
 {
     //int listNumber = sizeof list / sizeof list[0];
     int max = -100;
-    int buy = 0;
-    int sell = 0;
     printf("listの要素数は%dです\n", listNumber);
 
     for (int i = 1; i < listNumber; i++)
